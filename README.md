@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i memorise things fast, but cant remember later!
 
-methods are something!! :(
+for the tees or the trees :)
