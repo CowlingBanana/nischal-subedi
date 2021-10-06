@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... github is the best
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i memorise things fast, but cant remember later!
+
+methods are something!! :(
