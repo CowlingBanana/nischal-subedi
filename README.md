@@ -5,13 +5,13 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... python calculator gui with tkinter
-- 🌱 I’m currently learning ... python
-- 👯 I’m looking to collaborate on ... coding
-- 🤔 I’m looking for help with ... fullstack web development
-- 💬 Ask me about ... getting started in web dev
-- 📫 How to reach me: ... github is the best
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... i memorise things fast, but cant remember later!
+- 🔭 I’m currently working on ... *
+- 🌱 I’m currently learning ... *
+- 👯 I’m looking to collaborate on ... *
+- 🤔 I’m looking for help with ... *
+- 💬 Ask me about ... *
+- 📫 How to reach me: ... *
+- 😄 Pronouns: ... *
+- ⚡ Fun fact: ... |)
 
-for the tees or the trees :)
+Let's code and learn! not the other way around!! hehe ;)
